@@ -1,3 +1,5 @@
+<img src="web banner.jpg">
+
 <h1 align="center">Hi 👋, I'm Snehangi Behera</h1>
 <h3 align="center">Bringing creative visions to life through web development.</h3>
 

@@ -1,3 +1,19 @@
+    <h1 align="center">Hi 👋, I'm Snehangi Behera</h1>
+<h3 align="center">Bringing creative visions to life through web development.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehab200&label=Profile%20views&color=0e75b6&style=flat" alt="snehab200" /> </p>
+
+- 🌱 I’m currently learning **React.js, Angular.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SnehaB200](https://github.com/SnehaB200)
+
+- 📫 How to reach me **snehabehera200@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1G0xcyXhsjyw2fLldXM-lTwMM2ZySGGmM/view?usp=drive_link](https://drive.google.com/file/d/1G0xcyXhsjyw2fLldXM-lTwMM2ZySGGmM/view?usp=drive_link)
+
+- ⚡ Fun fact **I am funny 😁**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 

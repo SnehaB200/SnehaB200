@@ -1,9 +1,8 @@
-<img src="web banner.jpg">
+<img src="Cream Minimalist Personal Profile LinkedIn Banner (2).png">
 
 <h1 align="center">Hi 👋, I'm Snehangi Behera</h1>
 <h3 align="center">Bringing creative visions to life through web development.</h3>
 
-<p align="left"> <img src="Cream Minimalist Personal Profile LinkedIn Banner (2).png" alt="snehab200" /> </p>
 
 - 🌱 I’m currently learning **React.js, Angular.js**
 

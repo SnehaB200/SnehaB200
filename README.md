@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Snehangi Behera</h1>
 <h3 align="center">Bringing creative visions to life through web development.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=snehab200&label=Profile%20views&color=0e75b6&style=flat](https://github.com/SnehaB200/SnehaB200/blob/main/Cream%20Minimalist%20Personal%20Profile%20LinkedIn%20Banner%20(2).png)" alt="snehab200" /> </p>
+<p align="left"> <img src="Cream Minimalist Personal Profile LinkedIn Banner (2).png" alt="snehab200" /> </p>
 
 - 🌱 I’m currently learning **React.js, Angular.js**
 
